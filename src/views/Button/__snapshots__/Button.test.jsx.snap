@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button component Button renders with full props 1`] = `
+<button
+  class="sc-bdfBQB eWbZmV"
+  type="button"
+>
+  <span>
+    fun button
+  </span>
+</button>
+`;
+
+exports[`Button component Button renders with some default props and children 1`] = `
+<button
+  class="sc-bdfBQB bzyqGh"
+>
+  <span>
+    fun button
+  </span>
+</button>
+`;
+
+exports[`Button component Button renders without props 1`] = `
+<button
+  class="sc-bdfBQB bzyqGh"
+/>
+`;

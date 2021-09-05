@@ -1,0 +1,6 @@
+{
+  "name": "checkbox-view",
+  "version": "0.1.0",
+  "private": true,
+  "main": "Checkbox.tsx"
+}

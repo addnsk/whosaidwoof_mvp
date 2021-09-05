@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Checkbox component Checkbox  renders with full props 1`] = `
+<input
+  class="sc-jSgvzq gUpjID"
+  type="checkbox"
+/>
+`;
+
+exports[`Checkbox component Checkbox renders with some default props and children 1`] = `
+<input
+  class="sc-jSgvzq gUpjID"
+  type="checkbox"
+/>
+`;
+
+exports[`Checkbox component Checkbox renders without props 1`] = `
+<input
+  class="sc-jSgvzq gUpjID"
+  type="checkbox"
+/>
+`;

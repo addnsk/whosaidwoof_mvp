@@ -1,0 +1,6 @@
+{
+  "name": "select-list-container",
+  "version": "0.1.0",
+  "private": true,
+  "main": "SelectList.tsx"
+}

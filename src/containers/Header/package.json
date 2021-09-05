@@ -1,0 +1,6 @@
+{
+  "name": "header-container",
+  "version": "0.1.0",
+  "private": true,
+  "main": "Header.tsx"
+}

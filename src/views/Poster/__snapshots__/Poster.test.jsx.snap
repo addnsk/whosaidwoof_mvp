@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Poster component Poster renders 1`] = `
+<section
+  class="sc-dlfnuX jALsTq"
+  data-testid="poster"
+>
+  <img
+    alt="Собака"
+    src="dog.png"
+  />
+</section>
+`;

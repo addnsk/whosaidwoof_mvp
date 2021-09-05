@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Text component Text renders with full props 1`] = `
+<h2
+  class="sc-gsTEea lenZgS"
+>
+  Hello
+</h2>
+`;
+
+exports[`Text component Text renders with some default props and children 1`] = `
+<span
+  class="sc-gsTEea eYisTA"
+>
+  Hello
+</span>
+`;
+
+exports[`Text component Text renders without props 1`] = `
+<span
+  class="sc-gsTEea eYisTA"
+  data-testid="text"
+/>
+`;

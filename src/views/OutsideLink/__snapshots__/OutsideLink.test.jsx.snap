@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`OutsideLink component OutsideLink renders with full props 1`] = `
+<a
+  class="sc-iBPTik cHDhQU"
+  href="/"
+  target="_blank"
+>
+  Hello
+</a>
+`;

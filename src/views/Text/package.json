@@ -1,0 +1,6 @@
+{
+  "name": "text-view",
+  "version": "0.1.0",
+  "private": true,
+  "main": "Text.tsx"
+}

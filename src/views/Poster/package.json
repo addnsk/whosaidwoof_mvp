@@ -1,0 +1,6 @@
+{
+  "name": "poster-view",
+  "version": "0.1.0",
+  "private": true,
+  "main": "Poster.tsx"
+}
