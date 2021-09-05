@@ -12,7 +12,10 @@ export const ResultPage: React.FC = (): JSX.Element => {
         <Text as="h2" appearance="h2" colorText="light" caption={name} />
       </ResultWrap>
       <ButtonSection>
-        <OutsideLink href="https://github.com/" caption="GitHub" />
+        <OutsideLink
+          href="https://github.com/addnsk/whosaidwoof_mvp/"
+          caption="GitHub"
+        />
       </ButtonSection>
     </PageLayout>
   );

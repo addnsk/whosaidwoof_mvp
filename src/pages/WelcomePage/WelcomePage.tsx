@@ -31,14 +31,10 @@ export const WelcomePage: React.FC = (): JSX.Element => {
         />
       </ButtonSection>
       <ButtonSection>
-        <OutsideLink href="https://github.com/" caption="GitHub" />
-        {/* <Text appearance="span" colorText="light" caption="Так же можно" />
-        <Button
-          type="button"
-          appearance="outline"
-          caption="Предложить кличку*"
-          onClick={handleClick("/offer")}
-        /> */}
+        <OutsideLink
+          href="https://github.com/addnsk/whosaidwoof_mvp/"
+          caption="GitHub"
+        />
       </ButtonSection>
     </PageLayout>
   );
